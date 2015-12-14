@@ -4,6 +4,9 @@ mil.nga.geopackage.extension.index
 mil.nga.geopackage.features.user
 mil.nga.geopackage.io
 mil.nga.geopackage.manager
+mil.nga.geopackage.property
 mil.nga.geopackage.tiles
+mil.nga.geopackage.tiles.features
+mil.nga.geopackage.tiles.features.custom
 mil.nga.geopackage.tiles.user
 mil.nga.geopackage.user
